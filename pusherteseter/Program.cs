@@ -11,6 +11,7 @@ namespace pusherteseter
         static void Main(string[] args)
         {
             Console.WriteLine("hmmer");
+            Console.WriteLine("tmmemrmerm");
         }
     }
 }
