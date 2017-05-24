@@ -12,6 +12,8 @@ namespace pusherteseter
         {
             Console.WriteLine("hmmer");
             Console.WriteLine("tmmemrmerm");
+
+            Console.WriteLine("HEYYER WOOWER");
         }
     }
 }
